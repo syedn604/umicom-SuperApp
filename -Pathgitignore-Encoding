@@ -1,0 +1,7 @@
+utf8-Value/build/
+/out/
+/installed/
+/_local/
+/batch*/
+/.env
+/.env.*
